@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🌱
  
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fnazbeh" alt="Hits">
 
