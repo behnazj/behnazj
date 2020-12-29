@@ -1,5 +1,4 @@
 ### ✨ Hi there  🌱
- 
 - 🔭 Working on cool projects!
 - 📫 Connect [coming soon]
 
